@@ -5,7 +5,7 @@ var livereload = require('gulp-livereload');
 //You can add any new path at any part of the array
 //folder/*.extension
 
-var directories = ["./*.html", "./assets/js/**/*.js", "assets/css/style.css"];
+var directories = ["./*.html", "assets/js/app.js", "assets/css/style.css"];
 
 gulp.task('default', [], function() {
     livereload.listen();
