@@ -2,7 +2,7 @@
 ![](https://d5nkxbcmx4bo4.cloudfront.net/faceview/cc/d5g/ge/ae/affimgs/az-large-4643622.jpg)
 
 
-## Setup and Usage
+## Setup
 
 ### Option 1: git clone
 
@@ -18,4 +18,12 @@ Download Zip file, extract it. Inside of the folder open terminal and simply run
 
 ```sh
 $ npm install
+```
+
+## Gulp tasks
+
+in order to follow changes in the project, run `gulp watch` 
+
+```sh
+$ gulp watch
 ```
