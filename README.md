@@ -4,7 +4,7 @@
 
 ## Setup
 
-### Option 1: git clone
+### git clone
 
 ```bash
 $ git clone https://github.com/MAXIMUS499/forCakeLovers.git
@@ -12,17 +12,9 @@ $ cd forCakeLovers/
 $ npm install
 ```
 
-### Option 2: Download Zip
-
-Download Zip file, extract it. Inside of the folder open terminal and simply run `npm install` and you will be good!
-
-```sh
-$ npm install
-```
-
 ## Gulp tasks
 
-in order to follow changes in the project, run `gulp watch` 
+In order to follow changes in the project, run `gulp watch` 
 
 ```sh
 $ gulp watch
